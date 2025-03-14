@@ -17,12 +17,12 @@ Kalau kamu bingung, kamu bisa menonton materi berupa video [disini](https://yout
 <br/>
 
 ## 🎯 Apa yang Akan Kamu Pelajari?  
-✅ Pengenalan C++
+✅ Pengenalan C++ </br>
 ✅ Sintaks Dasar & Struktur Program  
 ✅ Tipe Data, Variabel, dan Operator  
 ✅ Percabangan (if-else, switch)  
 ✅ Perulangan (for, while, do-while)  
-✅ Fungsi & Procedural
+✅ Fungsi & Procedural <br />
 ✅ Bonus: Studi Kasus & Mini Project  
 
 📌 **Setiap materi dilengkapi dengan contoh kode & latihan praktis!**  
